@@ -1,0 +1,7 @@
+open 92.135.141.189
+Paul
+pipoma
+cd ddc/InformationsDLL/
+bin
+get InformationsDLL.csv
+bye
